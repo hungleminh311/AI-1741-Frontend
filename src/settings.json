@@ -1,0 +1,67 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "eventDescription": "Gamble 2024 is launching in Los Angeles in June. Don't miss out!",
+        "linkText": "Discover More"
+      }
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Unlock boundless design possibilities and let your creativity take the gamble.",
+        "title": "Roll the Dice with Creative Flair"
+      }
+    },
+    {
+      "id": "HeroSplitWithImage"
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Unlock boundless design possibilities and let your creativity take the gamble.",
+        "title": "Roll the Dice with Creative Flair"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Unlock boundless design possibilities and let your creativity take the gamble.",
+        "title": "Roll the Dice with Creative Flair"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Unlock boundless design possibilities and let your creativity take the gamble.",
+        "title": "Roll the Dice with Creative Flair"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Unlock boundless design possibilities and let your creativity take the gamble.",
+        "title": "Roll the Dice with Creative Flair"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Unlock boundless design possibilities and let your creativity take the gamble.",
+        "title": "Roll the Dice with Creative Flair"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Unlock boundless design possibilities and let your creativity take the gamble.",
+        "title": "Roll the Dice with Creative Flair"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Roll the Dice with Creative Flair",
+  "subtitle": "Unlock boundless design possibilities and let your creativity take the gamble."
+}
